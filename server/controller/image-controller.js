@@ -1,7 +1,9 @@
 import grid from 'gridfs-stream';
 import mongoose from 'mongoose';
 
-const url = 'https://utkuaksoyblog.onrender.com';
+const url = 'https://localhost:8000';
+//https://localhost:8000
+//https://utkuaksoyblog.onrender.com
 
 let gfs, gridfsBucket;
 const conn = mongoose.connection;
