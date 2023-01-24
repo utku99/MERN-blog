@@ -1,4 +1,6 @@
-# blogg
+#
+https://utkuaksoyblog.onrender.com/
+
 
 client server içindeyse
 "start": "node server.js",
@@ -6,5 +8,5 @@ client server içindeyse
 "client-build": "cd client && npm run build"
 
 const url
-server/controller/image-controller.js
+server/controller/image-controller.js --
 client/src/service/api.js
