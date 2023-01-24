@@ -1,4 +1,4 @@
-# BLOG
+# blog
 
 client server içindeyse 
 "start": "node server.js", 
