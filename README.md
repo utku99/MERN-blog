@@ -1,6 +1,4 @@
 #
-https://utkuaksoyblog.onrender.com/
-
 
 client server içindeyse 
 "start": "node server.js", 
